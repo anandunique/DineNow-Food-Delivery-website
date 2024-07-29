@@ -6,7 +6,7 @@ DineNow is a food delivery web application where users can browse various menus 
 #### 1.Installation and How to run the project?
 #### 2.All about the project(with images of website)
 
-## 1)Installation
+# 1)Installation
 ### Prerequisites
 
 Make sure you have the following installed on your system:
@@ -32,7 +32,7 @@ Installation to be completed (requires Internet)
 2. Type "npm i" to install all the necessary packages
 3. Type "npm run dev" in the terminal.
 
-### 2)All about the project
+# 2)All about the project
 1. The Home page with Navbar links to 'CART' page, 'SIGN IN' page and 'MY ORDERS' page.
    
   ![image](https://github.com/user-attachments/assets/020f7df0-73bd-49dc-9d2b-4e4aa158326a)
