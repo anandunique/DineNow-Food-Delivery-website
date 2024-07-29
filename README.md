@@ -4,8 +4,8 @@
 DineNow is a food delivery web application built with the MERN stack. It allows users to browse various menus, filter food items, add items to their cart, proceed to payment, and place orders. Users can also view their orders and access an admin page to manage displayed items and orders.
 
 ### Table of Contents
-1. [All About the Project](#All-about-the-project)
-2. [Installation ](#Installation)
+-[All About the Project](#All-about-the-project)
+-[Installation ](#Installation)
 
 ## 1. All About the Project
 
