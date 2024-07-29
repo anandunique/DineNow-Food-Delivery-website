@@ -35,5 +35,5 @@ Installation to be completed (requires Internet)
 
 ### 2)All about the project
 1. The Home page with Navbar links to 'CART' page, 'SIGN IN' page and 'MY ORDERS' page.
-   
-![image](https://github.com/user-attachments/assets/e79d19f5-cb7d-4ed9-888d-fc217ffd4b50)
+   ![image](https://github.com/user-attachments/assets/020f7df0-73bd-49dc-9d2b-4e4aa158326a)
+
