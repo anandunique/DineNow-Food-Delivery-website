@@ -33,7 +33,7 @@ Installation to be completed (requires Internet)
 3. Type "npm run dev" in the terminal.
 
 # 2)All about the project
-#### 1. The Home page with Navbar links to 'CART' page, 'SIGN IN' page and 'MY ORDERS' page.<br></br?
+#### 1. The Home page with Navbar links to 'CART' page, 'SIGN IN' page and 'MY ORDERS' page.<br></br>
 
    
   ![image](https://github.com/user-attachments/assets/020f7df0-73bd-49dc-9d2b-4e4aa158326a)
