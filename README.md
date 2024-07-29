@@ -33,17 +33,17 @@ Installation to be completed (requires Internet)
 3. Type "npm run dev" in the terminal.
 
 # 2)All about the project
-#### 1. The Home page with Navbar links to 'CART' page, 'SIGN IN' page and 'MY ORDERS' page.<br></br>
+## 1. The Home page with Navbar links to 'CART' page, 'SIGN IN' page and 'MY ORDERS' page.<br></br>
 
    
   ![image](https://github.com/user-attachments/assets/020f7df0-73bd-49dc-9d2b-4e4aa158326a)<br></br>
 
-#### 2. Home Page containing food items available with Menu Filtering abilities.<br></br>
+## 2. Home Page containing food items available with Menu Filtering abilities.<br></br>
 
   ![image](https://github.com/user-attachments/assets/687780b8-6ab2-4485-afd4-a86f970ef8cf)<br></br>
 
 
-#### 3. The Footer of the website remains same for Contact information.<br></br>
+## 3. The Footer of the website remains same for Contact information.<br></br>
 
    
    ![image](https://github.com/user-attachments/assets/f3bea942-56eb-45d0-b8bb-f9faa03e3810)<br></br>
