@@ -92,7 +92,7 @@ Installation to be completed (requires Internet)
 ###    and manage Orders by users.<br></br>
 
 
-    ![image](https://github.com/user-attachments/assets/35fb2eac-108e-446f-84ba-71b1a60803a0)<br></br>
+    ![image](https://github.com/user-attachments/assets/35fb2eac-108e-446f-84ba-71b1a60803a0)
 
 
 
