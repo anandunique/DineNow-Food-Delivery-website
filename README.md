@@ -91,8 +91,8 @@ Installation to be completed (requires Internet)
 ### 10. This is the Admin Page where we can add new Items, List items that should be displayed in the website,
 ###    and manage Orders by users.<br></br>
 
+  ![image](https://github.com/user-attachments/assets/e0722519-34af-4fef-b39b-f6b690345e3e)
 
-    ![image](https://github.com/user-attachments/assets/35fb2eac-108e-446f-84ba-71b1a60803a0)
 
 
 
