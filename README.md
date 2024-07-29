@@ -89,7 +89,7 @@ Installation to be completed (requires Internet)
 5. Also get the JWT private key, Stripe API private key form Stripe API website and paste in .env
   <img width="683" alt="image" src="https://github.com/user-attachments/assets/28c14e8d-8ca6-4bcd-b50f-33d76fed09f9">
 
-6.Type "npm run server" to run the backend and check in the console if printed "DB connected".
+6. Type "npm run server" to run the backend and check in the console if printed "DB connected".
 
 ## Steps to run Frontend/Admin
 1. Similarly open admin/Frontend in seperate integrated terminals by "cd folder".
