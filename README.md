@@ -6,8 +6,10 @@ DineNow is a food delivery web application built with the MERN stack. It allows 
 ### Table of Contents
 1. [All About the Project](#all-about-the-project)
 2. [Installation and How to Run the Project](#installation-and-how-to-run-the-project)
-# 1)All about the project
-### 1. The Home page with Navbar links to 'CART' page, 'SIGN IN' page and 'MY ORDERS' page.<br></br>
+3. 
+## 1. All About the Project
+
+### 1.1 Home Page
 
    
   ![image](https://github.com/user-attachments/assets/020f7df0-73bd-49dc-9d2b-4e4aa158326a)<br></br>
@@ -67,7 +69,8 @@ DineNow is a food delivery web application built with the MERN stack. It allows 
 
   ![image](https://github.com/user-attachments/assets/e0722519-34af-4fef-b39b-f6b690345e3e)<br></br>
 
-# 2)Installation
+## 2. Installation
+
 ### Prerequisites
 
 Make sure you have the following installed on your system:
